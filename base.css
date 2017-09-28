@@ -1,0 +1,52 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	font-family: "Raleway", sans-serif;
+	font-style: bold;
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.site-menu {
+	font-size: 1.5em;
+	background-color: #668B8B;
+	text-align: center;
+}
+
+.pure-menu-heading {
+	text-align: left;
+}
+
+.pure-menu-link {
+	color: #E0EEEE;
+}
+
+.pure-menu-link:hover {
+	color: #668B8B;
+	background-color: #E0EEEE;
+}
+
+.content {
+	font-family: "Raleway", sans-serif;
+	font-style: thin;
+	color: #668B8B;
+	text-align: center;
+}
+
+.content img {
+	border-radius: 100%;
+	margin-top: 6em;
+	max-width: 400px;
+	min-width: 400px;
+}
+
+input {
+	width: 25em;
+	height: 15em;
+}
+
+button {
+	padding: em;
+}
+
